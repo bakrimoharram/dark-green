@@ -2,6 +2,15 @@
     "name": "dark-green",
     "displayName": "dark-green",
     "description": "dark green theme.",
+    "publisher": "bakrimoharram",
+    "author": {
+        "name": "Bakri Moharram",
+        "email": "bakri_moharram@hotmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/bakrimoharram/dark-green.git",
+        "type": "git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.56.0"
