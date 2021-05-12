@@ -1,0 +1,21 @@
+{
+    "name": "dark-green",
+    "displayName": "dark-green",
+    "description": "dark green theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark-Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark-Green-color-theme.json"
+            }
+        ]
+    }
+}
