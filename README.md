@@ -1,4 +1,4 @@
 # README
 Dark-Green Theme for VSCode.
 
-![](https://github.com/bakrimoharram/darkpurple-theme/raw/master/assets/preview.jpeg)
+![](https://github.com/bakrimoharram/dark-green/raw/master/assets/preview.jpeg)
